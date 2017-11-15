@@ -28,7 +28,7 @@
     "request": "~2.27.0",
     "shortid": "~2.0.0",
     "underscore-query": "~0.4.0",
-    "ws": "~0.4.31"
+    "ws": "~1.1.5"
   },
   "license": "Apache V2.0",
   "engines": {
